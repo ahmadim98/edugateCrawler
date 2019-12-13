@@ -1,6 +1,6 @@
 # Description
 This project was created while i was building my final project and needed method to crawl user info's.
-Hopefully you found it usefull.
+Hopefully you found it useful.
 
 # Configuration
 The project was built in eclipse and uses HtmlUnit "java library" which is used to simulate browser actions in
